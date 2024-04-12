@@ -1,3 +1,5 @@
+// WAP to interchange the value of two variables  without using a third variable
+
 import java.util.Scanner;
 public class Code3 {
     public static void main(String args[]){
