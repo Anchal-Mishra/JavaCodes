@@ -1,4 +1,5 @@
 // WAP to calculate sum of each digit of a 4 digit number also display number in reverse order
+
 public class Code4 {
     public static void main(String args[]){
         int num=8965, rev, a,b,c,d;
