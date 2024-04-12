@@ -1,3 +1,5 @@
+// WAP to convert temprature Celsius to fahrenheit 
+
 import java.util.Scanner;
 public class Code2 {
     public static void main(String args[]){
