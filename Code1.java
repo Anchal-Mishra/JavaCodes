@@ -1,3 +1,5 @@
+// WAP to calculate total and average of three numbers
+
 import java.util.Scanner;
 public class Code1 {
     public static void main(String args[]){
