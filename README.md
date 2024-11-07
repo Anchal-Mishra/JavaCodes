@@ -1,2 +1,2 @@
 Hello,
-I Have added some Codes that can help a beginner to practice coding.
+I Have added some Java Problems to practice coding.
